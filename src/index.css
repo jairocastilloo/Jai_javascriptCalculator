@@ -1,0 +1,24 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+}
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  background-color: rgb(240, 240, 240);
+}
+.calcuContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+.calcu {
+  display: flex;
+  width: 320px;
+  background-color: #3e559d;
+  color: #fcfc00;
+}
